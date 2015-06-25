@@ -1,2 +1,2 @@
 # calendar
-PHP Calendar with jQuery Resizing (Perfect for iFrames)
+PHP Calendar with jQuery Window Resizing
